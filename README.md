@@ -1,4 +1,4 @@
-# Magnetic-Grains-with-Random-Anisotrpy-Voronoi-
+# Skyrmion number study in Magnetic-Grains-with-Random-Anisotrpy-Voronoi-
 
 This code is to study the magnetic behavior of exchanged coupled magnetic grains with random anisotropy.
 
