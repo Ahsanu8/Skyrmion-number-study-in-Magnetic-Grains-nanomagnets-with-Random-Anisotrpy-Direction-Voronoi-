@@ -2,7 +2,7 @@
 
 This code is to study the magnetic behavior of exchanged coupled magnetic grains with random anisotropy.
 
-This code is used in our research article "Topological phase transitions and Berry-phase hysteresis in exchange-coupled nanomagnets", Phys. Rev. B 106, 134430 (https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.134430). In our article we used this code to explain our experimental results. 
+This code is used in our research article "Topological phase transitions and Berry-phase hysteresis in exchange-coupled nanomagnets", A. Ullah et. al. Phys. Rev. B 106, 134430 (https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.134430). In our article we used this code to explain our experimental results. 
 
 Our supercomputer facility Holland Computing Center - University of Nebraska–Lincoln provides maximum 8-hrs for jupyter notebook sessions. If the time for session increase then the number of grains can be increase along with (x,y,z) dimensions. 
 
