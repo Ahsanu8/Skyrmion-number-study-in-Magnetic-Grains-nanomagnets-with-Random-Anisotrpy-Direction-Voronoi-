@@ -1,6 +1,6 @@
 # Skyrmion number study in Magnetic Grains/nanomagnets with Random Anisotrpy Direction-Voronoi
 
-This code is to study the magnetic behavior of exchanged coupled magnetic grains with random anisotropy.
+This code is to study the magnetic behavior of exchanged coupled magnetic grains/nanomagnets with random anisotropy.
 
 This code is used in our research article "Topological phase transitions and Berry-phase hysteresis in exchange-coupled nanomagnets", A. Ullah et. al. Phys. Rev. B 106, 134430 (https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.134430). In our article we used this code to explain our experimental results. 
 
